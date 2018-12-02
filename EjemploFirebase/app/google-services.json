@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "222067217451",
+    "firebase_url": "https://holaproyecto-76744.firebaseio.com",
+    "project_id": "holaproyecto-76744",
+    "storage_bucket": "holaproyecto-76744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222067217451:android:44b8c90e5dc334b7",
+        "android_client_info": {
+          "package_name": "mx.com.proyecto.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222067217451-dgu3qo02otul1q30767bs6eqeq9bqseg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsAKH30RgezDjK9rni6vaX3lRCNDpLCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
